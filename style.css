@@ -45,7 +45,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
 
   /* height: 712px; Geralmente, a ALTURA eu não preciso definir no CSS, porque a altura segue o conteúdo da página, ou seja, de acordo com o conteúdo que for colocando a caixa vai aumentando de altura para caber tudo. */
 
